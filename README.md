@@ -1,6 +1,6 @@
 # Updates
-Updates from Overclock Labs on Photon, our project to deliver an open, decentralized marketplace for compute.
+Updates from Overclock Labs on Akash, our project to deliver an open, decentralized marketplace for compute.
 
-https://photonnetwork.org/
+https://akash.network
 
-https://t.me/photonnetwork
+https://t.me/akashnw
