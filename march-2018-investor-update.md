@@ -38,7 +38,7 @@ I continue to speak almost every week before large and small groups. Recent and 
 - SXSW, March 12-13: We’re hosting the CryptoFriends summit and the after party. More details in the [press release](https://www.prnewswire.com/news-releases/cryptofriends--two-day-crypto-summit-coming-to-sxsw-2018-featuring-women-in-blockchain-conference---new-girls-on-the-block-300602381.html).
 - TokenFest, March 15-16: We’re sponsoring TokenFest in San Francisco. More details [here](https://tokenfest.adria.digital/).
 
-I was interviewed by Keith Koo and Jonathan Ziegler for Silicon Valley Advisor, discussing my history, “legendary” status, and the Photon Network
+I was interviewed by Keith Koo for Silicon Valley Insider, discussing my history, “legendary” status, and the Photon Network
 https://omny.fm/shows/the-silicon-valley-insider-show/sv-insider-3-2-18-podcast
 
 Photon was also mentioned in the Next Web’s piece on future web technologies
